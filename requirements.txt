@@ -1,0 +1,11 @@
+dash==2.13.0
+gunicorn==23.0.0
+pandas>=1.1.5
+matplotlib==3.7.5
+seaborn==0.13.2
+boto3==1.35.46
+setuptools<82
+flask==2.2.5
+requests==2.34.2
+plotly==6.9.0
+# Python 3.14.7

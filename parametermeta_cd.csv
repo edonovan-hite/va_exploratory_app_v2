@@ -1,0 +1,379 @@
+,cid,pid,pname,ciso,vid,u,sign,sfid
+0,13059,12913212,Average weekly sales - Company operated - US,USD,351487,1,+,4.0
+1,13059,12913211,Average weekly sales - Franchised - US,USD,351487,1,+,4.0
+2,13059,12913213,Average weekly sales - US,USD,351487,1,+,4.0
+3,13059,13284434,Average weekly sales - Company operated - International operated,USD,351487,1,+,4.0
+4,13059,13284433,Average weekly sales - Franchised - International operated,USD,351487,1,+,4.0
+5,13059,13284435,Average weekly sales - International Operated,USD,351487,1,+,4.0
+6,13059,13284437,Average weekly sales - Company operated - IDLC,USD,351487,1,+,4.0
+7,13059,13284436,Average weekly sales - Franchised - IDLC,USD,351487,1,+,4.0
+8,13059,13284438,Average weekly sales - IDLC,USD,351487,1,+,4.0
+9,13059,5774169,Cash and equivalents,USD,10083,1,+,1.0
+10,13059,5774170,Accounts and notes receivable,USD,10083,1,+,1.0
+11,13059,5774171,"Inventories, at cost",USD,10083,1,+,1.0
+12,13059,5774172,Prepaid expenses and other current assets,USD,10083,1,+,1.0
+13,13059,5774173,Total current assets,USD,10083,1,+,1.0
+14,13059,5774174,Investments in and advances to affiliates,USD,10083,1,+,1.0
+15,13059,5774175,Goodwill,USD,10083,1,+,1.0
+16,13059,5774176,Miscellaneous,USD,10083,1,+,1.0
+17,13059,5774177,Total other assets,USD,10083,1,+,1.0
+18,13059,13319239,Lease right of used asset net,USD,10083,1,,
+19,13059,5774178,"Property and equipment, gross",USD,10083,1,+,1.0
+20,13059,5774179,Accumulated depreciation and amortization,USD,10083,1,+,1.0
+21,13059,5774180,"Property and equipment, net",USD,10083,1,+,1.0
+22,13059,5774329,Total non-current assets,USD,10083,1,+,1.0
+23,13059,5774181,Total assets,USD,10083,1,+,1.0
+24,13059,5774182,Accounts payable,USD,10083,1,+,1.0
+25,13059,14346061,Short-term debt,USD,10083,1,+,1.0
+26,13059,13319240,Operating lease liability - Current,USD,10083,1,,
+27,13059,5774528,Debt and capital lease obligations - current,USD,10083,1,+,1.0
+28,13059,5774674,Other current liabilities,USD,10083,1,+,1.0
+29,13059,5774188,Total current liabilities,USD,10083,1,+,1.0
+30,13059,5774189,Long-term debt,USD,10083,1,+,1.0
+31,13059,13339366,Operating lease liability - Noncurrent,USD,10083,1,,
+32,13059,13812624,Debt and capital lease obligations - long-term,USD,10083,1,+,1.0
+33,13059,5774190,Other long-term liabilities,USD,10083,1,+,1.0
+34,13059,5774331,Total non-current liabilities,USD,10083,1,+,1.0
+35,13059,5774332,Total liabilities,USD,10083,1,+,1.0
+36,13059,5774192,Common stock,USD,10083,1,+,1.0
+37,13059,5774193,Additional paid-in capital,USD,10083,1,+/-,1.0
+38,13059,5774194,Retained earnings,USD,10083,1,+/-,1.0
+39,13059,5774195,Accumulated other comprehensive income/(loss),USD,10083,1,+/-,1.0
+40,13059,5774196,"Common stock in treasury, at cost",USD,10083,1,+,1.0
+41,13059,5774197,Total shareholders' equity,USD,10083,1,+/-,1.0
+42,13059,5774198,Total liabilities and shareholders' equity,USD,10083,1,+,1.0
+43,13059,5774220,Net income (CF),USD,10084,1,+/-,3.0
+44,13059,5774221,Depreciation and amortization (CF),USD,10084,1,+,3.0
+45,13059,5774222,Deferred income taxes operating activities,USD,10084,1,+/-,3.0
+46,13059,5774223,Share-based compensation (CF),USD,10084,1,+/-,3.0
+47,13059,5774679,Total other operating activities,USD,10084,1,+/-,3.0
+48,13059,5774225,Changes in working capital,USD,10084,1,+/-,3.0
+49,13059,5774226,Net cash flows provided by/(used in) operating activities,USD,10084,1,+/-,3.0
+50,13059,5774227,Capital expenditures,USD,10084,1,+,3.0
+51,13059,5774458,Net disposables/(acquisitions),USD,10084,1,+/-,3.0
+52,13059,13292165,"Other investing activities, net",USD,10084,1,+/-,3.0
+53,13059,5774230,Net cash flows provided by/(used in) investing activities,USD,10084,1,+/-,3.0
+54,13059,5774231,Net debt issuances and repayments,USD,10084,1,+/-,3.0
+55,13059,5774232,Treasury stock purchases,USD,10084,1,+,3.0
+56,13059,5774233,Common stock dividends,USD,10084,1,+,3.0
+57,13059,5774234,Proceeds from stock option exercises,USD,10084,1,+,3.0
+58,13059,5774457,Total other financing activities,USD,10084,1,+/-,3.0
+59,13059,5774237,Net cash flows provided by/(used in) financing activities,USD,10084,1,+/-,3.0
+60,13059,5774238,Effect of exchange rates on cash and cash equivalents,USD,10084,1,+/-,3.0
+61,13059,5774239,Net change in cash and equivalents,USD,10084,1,+/-,3.0
+62,13059,5774240,Cash and equivalents at beginning of period,USD,10084,1,+,1.0
+63,13059,5774241,Cash and equivalents at end of period,USD,10084,1,+,1.0
+64,13059,5774446,Free cash flow,USD,10084,1,+/-,2.0
+65,13059,5774451,Free cash flow per share,USD,10084,1,+/-,2.0
+66,13059,14236374,Rest. BOP - Company-operated - US,XXX,1046040,6,+,1.0
+67,13059,5774414,Rest. net addition - Company-operated - US,XXX,1046040,6,+/-,2.0
+68,13059,5774353,Rest. EOP - Company-operated - US,XXX,1046040,6,+,1.0
+69,13059,14236375,Rest. BOP - Company-operated - International Operated,XXX,1046040,6,+,1.0
+70,13059,13284408,Rest. net addition - Company-operated - International Operated,XXX,1046040,6,+/-,2.0
+71,13059,5774518,Rest. EOP - Company operated - International,XXX,1046040,6,+,1.0
+72,13059,14236378,Rest.BOP - Company-operated - IDLC,XXX,1046040,6,+,1.0
+73,13059,13284424,Rest. net addition - Company-operated - IDLC,XXX,1046040,6,+/-,2.0
+74,13059,13284425,Rest. EOP - Company operated - IDLC,XXX,1046040,6,+,1.0
+75,13059,5774372,Rest. EOP - Company-operated,XXX,1046040,6,+,1.0
+76,13059,14236373,Rest. BOP - Conventional franchised - US,XXX,1046040,6,+,1.0
+77,13059,5774413,Rest. net addition - Conventional franchised - US,XXX,1046040,6,+/-,2.0
+78,13059,5774352,Rest. EOP - Conventional franchised - US,XXX,1046040,6,+,1.0
+79,13059,14642187,Rest. BOP - International Operated - Conventional franchised,XXX,1046040,6,+,1.0
+80,13059,14642188,Rest. - net additions - International Operated - Conventional franchised,XXX,1046040,6,+/-,2.0
+81,13059,13284406,Rest. EOP - Conventional franchised - International Operated,XXX,1046040,6,+,1.0
+82,13059,14642189,Rest. BOP - International Operated - Developmental licensed,XXX,1046040,6,+,1.0
+83,13059,14642190,Rest. net additions - International Operated - Developmental licensed,XXX,1046040,6,+/-,2.0
+84,13059,13284407,Rest. EOP - Developmental licensed - International Operated,XXX,1046040,6,+,1.0
+85,13059,13284441,Rest. EOP - Total franchised - International Operated,XXX,1046040,6,+,1.0
+86,13059,14642191,Rest. BOP - IDLC - Conventional franchised,XXX,1046040,6,+,1.0
+87,13059,14642192,Rest. net additions - IDLC - Conventional franchised,XXX,1046040,6,+/-,2.0
+88,13059,13284422,Rest. EOP - Conventional franchised - IDLC,XXX,1046040,6,+,1.0
+89,13059,14642193,Rest. BOP - IDLC - Developmental licensed,XXX,1046040,6,+,1.0
+90,13059,14642194,Rest. net additions - IDLC - Developmental licensed,XXX,1046040,6,+/-,2.0
+91,13059,13284423,Rest. EOP - Developmental licensed - IDLC,XXX,1046040,6,+,1.0
+92,13059,14642195,Rest. BOP - IDLC - Foreign affiliated,XXX,1046040,6,+,1.0
+93,13059,14642196,Rest. net addition - IDLC - Foreign affiliated,XXX,1046040,6,+/-,2.0
+94,13059,13284445,Rest. EOP - Foreign affilated - IDLC,XXX,1046040,6,+,1.0
+95,13059,13284442,Rest. EOP - Total franchised - IDLC,XXX,1046040,6,+,1.0
+96,13059,14642220,Rest.BOP - Conventional franchised - Franchisee,XXX,1046040,6,+,1.0
+97,13059,14642215,Rest. net additions - Conventional franchised - Franchisee,XXX,1046040,6,+/-,2.0
+98,13059,5774368,Rest. EOP - Conventional franchised,XXX,1046040,6,+,1.0
+99,13059,14642217,Rest. BOP - Developmental licensed - Franchisee,XXX,1046040,6,+,1.0
+100,13059,14642218,Rest. net additions - Developmental licensed - Franchisee,XXX,1046040,6,+/-,2.0
+101,13059,5774369,Rest. EOP - Developmental licensed,XXX,1046040,6,+,1.0
+102,13059,14642221,Rest. BOP - Foreign affiliated - Franchisee,XXX,1046040,6,+,1.0
+103,13059,14642219,Rest. net additions - Foreign affiliated - Franchisee,XXX,1046040,6,+/-,2.0
+104,13059,5774370,Rest. EOP - Foreign affiliated,XXX,1046040,6,+,1.0
+105,13059,5774371,Rest. EOP - Total franchised,XXX,1046040,6,+,1.0
+106,13059,5774373,Rest. EOP,XXX,1046040,6,+,1.0
+107,13059,14236378,Rest.BOP - Company-operated - IDLC,XXX,506113,6,+,1.0
+108,13059,13284424,Rest. net addition - Company-operated - IDLC,XXX,506113,6,+/-,2.0
+109,13059,13284425,Rest. EOP - Company operated - IDLC,XXX,506113,6,+,1.0
+110,13059,13284428,Avg. rest . - Company-operated - IDLC,XXX,506113,6,+,4.0
+111,13059,13284431,Company operated AUV - IDLC,USD,506113,1,+,4.0
+112,13059,13284413,Sales - Company-operated - IDLC,USD,506113,1,+,2.0
+113,13059,14236384,Company-operated restaurant expenses - IDLC,USD,506113,1,+,2.0
+114,13059,13284416,Restaurant level profit/(loss) - IDLC,USD,506113,1,+/-,2.0
+115,13059,14236377,Rest. BOP - Total franchised - IDLC,XXX,506113,6,+,1.0
+116,13059,13319242,Rest. net addition - Total franchised - IDLC,XXX,506113,6,+/-,2.0
+117,13059,13284442,Rest. EOP - Total franchised - IDLC,XXX,506113,6,+,1.0
+118,13059,13284427,Avg. rest . - Total franchised - IDLC,XXX,506113,6,+,4.0
+119,13059,13284432,Franchise/affiliate AUV - IDLC,USD,506113,1,+,4.0
+120,13059,13284421,System wide sales - Franchised - IDLC,USD,506113,1,+,2.0
+121,13059,13284440,Royalty rate - IDLC,XXX,506113,2,+,4.0
+122,13059,13284414,Revenues - Franchised - IDLC,USD,506113,1,+,2.0
+123,13059,14236381,Franchise restaurants-occupancy expenses - IDLC,USD,506113,1,+,2.0
+124,13059,13284417,Franchised profit/(loss) -IDLC,USD,506113,1,+/-,2.0
+125,13059,14236474,Rest. BOP - IDLC,XXX,506113,6,+,1.0
+126,13059,13319244,Rest. net addition - IDLC,XXX,506113,6,+/-,2.0
+127,13059,13284426,Rest. EOP - IDLC,XXX,506113,6,+,1.0
+128,13059,13284444,Avg. rest. - IDLC,XXX,506113,6,+,4.0
+129,13059,13284456,AUV - IDLC,USD,506113,1,+,4.0
+130,13059,13284419,System wide sales - IDLC,USD,506113,1,+,2.0
+131,13059,13284415,Revenues - International Develpoment licensed & corporate,USD,506113,1,+,2.0
+132,13059,13284458,Total profit/(loss) - IDLC,USD,506113,1,+/-,2.0
+133,13059,13284418,Operating income/ (loss) - IDLC,USD,506113,1,+/-,2.0
+134,13059,13284420,Comparable sales - IDLC,XXX,506113,2,+/-,2.0
+135,13059,14236375,Rest. BOP - Company-operated - International Operated,XXX,505984,6,+,1.0
+136,13059,13284408,Rest. net addition - Company-operated - International Operated,XXX,505984,6,+/-,2.0
+137,13059,13284409,Rest. EOP - Company operated - International Operated,XXX,505984,6,+,1.0
+138,13059,13284412,Avg. rest . - Company-operated - International Operated,XXX,505984,6,+,4.0
+139,13059,13284429,Company operated AUV - International Operated,USD,505984,1,+,4.0
+140,13059,13284397,Sales - Company-operated - International Operated,USD,505984,1,+,2.0
+141,13059,14236383,Company-operated restaurant expenses - International Operated,USD,505984,1,+,2.0
+142,13059,13284400,Restaurant level profit/(loss) - International Operated,USD,505984,1,+/-,2.0
+143,13059,14236376,Rest. BOP - Total franchised - International Operated,XXX,505984,6,+,1.0
+144,13059,13319241,Rest. net addition - Total franchised - International Operated,XXX,505984,6,+/-,2.0
+145,13059,13284441,Rest. EOP - Total franchised - International Operated,XXX,505984,6,+,1.0
+146,13059,13284411,Avg. rest . - Total franchised - international Operated,XXX,505984,6,+,4.0
+147,13059,13284430,Franchise/affiliate AUV - International Operated,USD,505984,1,+,4.0
+148,13059,13284405,System wide sales - Franchised - International operated,USD,505984,1,+,2.0
+149,13059,13284439,Royalty rate - International Operated,XXX,505984,2,+,4.0
+150,13059,13284398,Revenues - Franchised - International Operated,USD,505984,1,+,2.0
+151,13059,14236380,Franchise restaurants-occupancy expenses - International Operated,USD,505984,1,+,2.0
+152,13059,13284401,Franchised profit/(loss) -International Operated,USD,505984,1,+/-,2.0
+153,13059,14236475,Rest. BOP - International Operated,XXX,505984,6,+,1.0
+154,13059,13319243,Rest. net addition - International Operated,XXX,505984,6,+/-,2.0
+155,13059,13284410,Rest. EOP - International Operated,XXX,505984,6,+,1.0
+156,13059,13284443,Avg. rest. - International Operated,XXX,505984,6,+,4.0
+157,13059,13284455,AUV - International Operated,USD,505984,1,+,4.0
+158,13059,13284403,System wide sales - International operated,USD,505984,1,+,2.0
+159,13059,13284399,Revenues - International Operated,USD,505984,1,+,2.0
+160,13059,13284457,Total profit/(loss) - International Operated,USD,505984,1,+/-,2.0
+161,13059,13284402,Operating income/ (loss) - International Operated,USD,505984,1,+/-,2.0
+162,13059,13284404,Comparable sales - International Operated,XXX,505984,2,+/-,2.0
+163,13059,5774199,Sales - Company - Operated,USD,10082,1,+,2.0
+164,13059,5774200,Revenues - Franchised,USD,10082,1,+,2.0
+165,13059,13800144,Revenue - Other revenue,USD,10082,1,+,2.0
+166,13059,5774201,Total revenues,USD,10082,1,+,2.0
+167,13059,5774202,Company-operated restaurant expenses,USD,10082,1,+,2.0
+168,13059,5774203,Franchised restaurants-occupancy expenses,USD,10082,1,+,2.0
+169,13059,13800145,Other restaurant expenses,USD,10082,1,+,2.0
+170,13059,5774676,Total expenses,USD,10082,1,+,2.0
+171,13059,5774267,Restaurant level profit/(loss),USD,10082,1,+/-,2.0
+172,13059,13237529,Restaurant level profit/(loss) - margin,XXX,10082,2,+/-,4.0
+173,13059,5774262,Franchised level profit/(loss),USD,10082,1,+/-,2.0
+174,13059,5774338,Gross profit/(loss),USD,10082,1,+/-,2.0
+175,13059,5774204,"Selling, general & administrative expenses",USD,10082,1,+,2.0
+176,13059,5774495,Other operating expenses/(income),USD,10082,1,+/-,2.0
+177,13059,14642183,Total adjustments in Other Operating (Income)/Expenses,USD,10082,1,+/-,2.0
+178,13059,13006672,Other operating expenses/(income) - Operating,USD,10082,1,+/-,2.0
+179,13059,14685835,Total operating expenses,USD,10082,1,+,2.0
+180,13059,14685834,Total operating expenses - Operating,USD,10082,1,+,2.0
+181,13059,5774207,Total operating costs and expenses,USD,10082,1,+,2.0
+182,13059,13006675,Total operating costs and expenses - Operating,USD,10082,1,+,2.0
+183,13059,5774208,Operating income/(loss),USD,10082,1,+/-,2.0
+184,13059,5774503,Operating income/(loss) - Operating,USD,10082,1,+/-,2.0
+185,13059,5774456,EBITDA (Analyst define),USD,10082,1,+/-,2.0
+186,13059,8511805,EBITDA - Operating (Analyst define),USD,10082,1,,
+187,13059,5774209,Interest expense,USD,10082,1,+,2.0
+188,13059,13183058,Interest income/(expense),USD,10082,1,+/-,2.0
+189,13059,5774662,Other nonoperating income/(exp.),USD,10082,1,+/-,2.0
+190,13059,5774677,Nonoperating income/(expense),USD,10082,1,+/-,2.0
+191,13059,5774211,Income/(loss) before provision for income taxes,USD,10082,1,+/-,2.0
+192,13059,5774527,Income/(loss) before provision for income taxes - Operating,USD,10082,1,+/-,2.0
+193,13059,5774212,Provision / (benefit) for income taxes,USD,10082,1,+/-,2.0
+194,13059,5774592,Adjustments to tax,USD,10082,1,+/-,2.0
+195,13059,5774452,Provision / (benefit) for income taxes - Operating,USD,10082,1,+/-,2.0
+196,13059,5774213,Net income/(loss),USD,10082,1,+/-,2.0
+197,13059,5774450,Post tax adjustments,USD,10082,1,+/-,2.0
+198,13059,5774408,Net income/(loss) - Operating,USD,10082,1,+/-,2.0
+199,13059,5774215,EPS - Diluted,USD,10082,1,+/-,2.0
+200,13059,5774410,EPS - Diluted - Operating,USD,10082,1,+/-,2.0
+201,13059,5774318,Dividends declared per common share,USD,10082,1,+,2.0
+202,13059,5774308,Shares - Diluted,XXX,10082,6,+,4.0
+203,13059,5774199,Sales - Company - Operated,USD,1257735,1,+,2.0
+204,13059,5774200,Revenues - Franchised,USD,1257735,1,+,2.0
+205,13059,5774642,International AUV,USD,1257735,1,+,4.0
+206,13059,5774656,Total AUV,USD,1257735,1,+,4.0
+207,13059,5774481,Avg. rest. - US,XXX,1257735,6,+,4.0
+208,13059,13284443,Avg. rest. - International Operated,XXX,1257735,6,+,4.0
+209,13059,13284444,Avg. rest. - IDLC,XXX,1257735,6,+,4.0
+210,13059,5774511,System wide avg. rest.,XXX,1257735,6,+,4.0
+211,13059,5774201,Total revenues,USD,1257735,1,+,2.0
+212,13059,5774503,Operating income/(loss) - Operating,USD,1257735,1,+/-,2.0
+213,13059,5774408,Net income/(loss) - Operating,USD,1257735,1,+/-,2.0
+214,13059,5774410,EPS - Diluted - Operating,USD,1257735,1,+/-,2.0
+215,13059,5774169,Cash and equivalents,USD,1257735,1,+,1.0
+216,13059,5774226,Net cash flows provided by/(used in) operating activities,USD,1257735,1,+/-,3.0
+217,13059,5774227,Capital expenditures,USD,1257735,1,+,3.0
+218,13059,5774446,Free cash flow,USD,1257735,1,+/-,2.0
+219,13059,5774346,System wide sales - US,USD,1257735,1,+,2.0
+220,13059,5774525,System wide sales - International,USD,1257735,1,+,2.0
+221,13059,5774407,System wide sales,USD,1257735,1,+,2.0
+222,13059,5774374,Comparable sales - US,XXX,1257735,2,+/-,2.0
+223,13059,13284404,Comparable sales - International Operated,XXX,1257735,2,+/-,2.0
+224,13059,13284420,Comparable sales - IDLC,XXX,1257735,2,+/-,2.0
+225,13059,5774378,Total comparable sales,XXX,1257735,2,+/-,2.0
+226,13059,5774199,Sales - Company - Operated,USD,417784,1,+,2.0
+227,13059,5774202,Company-operated restaurant expenses,USD,417784,1,+,2.0
+228,13059,14072986,Company-operated restaurant expenses - % Sales company operated,XXX,417784,2,+/-,4.0
+229,13059,5774267,Restaurant level profit/(loss),USD,417784,1,+/-,2.0
+230,13059,13237529,Restaurant level profit/(loss) - margin,XXX,417784,2,+/-,4.0
+231,13059,5774250,Sales - Company-operated - US,USD,519468,1,+,2.0
+232,13059,13284397,Sales - Company-operated - International Operated,USD,519468,1,+,2.0
+233,13059,13284413,Sales - Company-operated - IDLC,USD,519468,1,+,2.0
+234,13059,5774496,Sales - Company-operated - International,USD,519468,1,+,2.0
+235,13059,5774199,Sales - Company - Operated,USD,519468,1,+,2.0
+236,13059,5774251,Revenues - Franchised - US,USD,519468,1,+,2.0
+237,13059,13284398,Revenues - Franchised - International Operated,USD,519468,1,+,2.0
+238,13059,13284414,Revenues - Franchised - IDLC,USD,519468,1,+,2.0
+239,13059,5774497,Revenues - Franchised - International,USD,519468,1,+,2.0
+240,13059,5774200,Revenues - Franchised,USD,519468,1,+,2.0
+241,13059,5774242,Revenues - US,USD,519468,1,+,2.0
+242,13059,13284399,Revenues - International Operated,USD,519468,1,+,2.0
+243,13059,13284415,Revenues - International Develpoment licensed & corporate,USD,519468,1,+,2.0
+244,13059,5774524,Revenues - International,USD,519468,1,+,2.0
+245,13059,13800144,Revenue - Other revenue,USD,519468,1,+,2.0
+246,13059,5774201,Total revenues,USD,519468,1,+,2.0
+247,13059,5774298,System wide sales - Franchised - US,USD,519468,1,+,2.0
+248,13059,5774346,System wide sales - US,USD,519468,1,+,2.0
+249,13059,13284405,System wide sales - Franchised - International operated,USD,519468,1,+,2.0
+250,13059,13284403,System wide sales - International operated,USD,519468,1,+,2.0
+251,13059,13284421,System wide sales - Franchised - IDLC,USD,519468,1,+,2.0
+252,13059,13284419,System wide sales - IDLC,USD,519468,1,+,2.0
+253,13059,5774526,System wide sales - Franchised - International,USD,519468,1,+,2.0
+254,13059,5774525,System wide sales - International,USD,519468,1,+,2.0
+255,13059,5774302,System wide sales - Franchised,USD,519468,1,+,2.0
+256,13059,5774407,System wide sales,USD,519468,1,+,2.0
+257,13059,5774684,Royalty rate - US,XXX,519468,2,+,4.0
+258,13059,5774719,Royalty rate - international,XXX,519468,2,+,4.0
+259,13059,14305496,Royalty rate,XXX,519468,2,+,4.0
+260,13059,5774263,Restaurant level profit/(loss) - US,USD,519468,1,+/-,2.0
+261,13059,13189988,Restaurant level profit/(loss) - US - Margin,XXX,519468,2,+/-,4.0
+262,13059,13284400,Restaurant level profit/(loss) - International Operated,USD,519468,1,+/-,2.0
+263,13059,13319266,Restaurant level profit/(loss) - International Operated - Margin,XXX,519468,2,+/-,4.0
+264,13059,13284416,Restaurant level profit/(loss) - IDLC,USD,519468,1,+/-,2.0
+265,13059,13319264,Restaurant level profit/(loss) - IDLC - Margin,XXX,519468,2,+/-,4.0
+266,13059,5774516,Restaurant level profit/(loss) - International,USD,519468,1,+/-,2.0
+267,13059,13189974,Restaurant level profit/(loss) - International - Margin,XXX,519468,2,+/-,4.0
+268,13059,5774267,Restaurant level profit/(loss),USD,519468,1,+/-,2.0
+269,13059,13237529,Restaurant level profit/(loss) - margin,XXX,519468,2,+/-,4.0
+270,13059,5774258,Franchised profit/(loss) - US,USD,519468,1,+/-,2.0
+271,13059,13189989,Franchised profit/(loss) - US - Margin,XXX,519468,2,+/-,4.0
+272,13059,13284401,Franchised profit/(loss) -International Operated,USD,519468,1,+/-,2.0
+273,13059,13319262,Franchised profit/(loss) - International Operated - Margin,XXX,519468,2,+/-,4.0
+274,13059,13284417,Franchised profit/(loss) -IDLC,USD,519468,1,+/-,2.0
+275,13059,13319263,Franchised profit/(loss) - IDLC - Margin,XXX,519468,2,+/-,4.0
+276,13059,5774514,Franchised profit/(loss) - International,USD,519468,1,+/-,2.0
+277,13059,13189977,Franchised profit/(loss) - International - Margin,XXX,519468,2,+/-,4.0
+278,13059,5774262,Franchised level profit/(loss),USD,519468,1,+/-,2.0
+279,13059,13189980,Franchised level profit/(loss) - Margin,XXX,519468,2,+/-,4.0
+280,13059,5774347,Total profit/(loss) - US,USD,519468,1,+/-,2.0
+281,13059,13189976,Total profit/(loss) - US - Margin,XXX,519468,2,+/-,4.0
+282,13059,13284457,Total profit/(loss) - International Operated,USD,519468,1,+/-,2.0
+283,13059,13319265,Total profit/(loss) - International Operated - Margin,XXX,519468,2,+/-,4.0
+284,13059,13284458,Total profit/(loss) - IDLC,USD,519468,1,+/-,2.0
+285,13059,13319267,Total profit/(loss) - IDLC - Margin,XXX,519468,2,+/-,4.0
+286,13059,5774515,Total profit/(loss) - International,USD,519468,1,+/-,2.0
+287,13059,13189983,Total profit/(loss) - International - Margin,XXX,519468,2,+/-,4.0
+288,13059,5774338,Gross profit/(loss),USD,519468,1,+/-,2.0
+289,13059,13189984,Gross profit/(loss) - Margin,XXX,519468,2,+/-,4.0
+290,13059,5774244,Operating income / (loss) - US,USD,519468,1,+/-,2.0
+291,13059,13284402,Operating income/ (loss) - International Operated,USD,519468,1,+/-,2.0
+292,13059,13284418,Operating income/ (loss) - IDLC,USD,519468,1,+/-,2.0
+293,13059,14642216,Operating income/(loss) - International,USD,519468,1,+/-,2.0
+294,13059,5774208,Operating income/(loss),USD,519468,1,+/-,2.0
+295,13059,5774479,Avg. rest . - Company-operated - US,XXX,519468,6,+,4.0
+296,13059,13284412,Avg. rest . - Company-operated - International Operated,XXX,519468,6,+,4.0
+297,13059,13284428,Avg. rest . - Company-operated - IDLC,XXX,519468,6,+,4.0
+298,13059,5774694,Avg. rest. - Company-operated - International,XXX,519468,6,+,4.0
+299,13059,5774510,Total Company avg. rest.,XXX,519468,6,+,4.0
+300,13059,5774480,Avg. rest . - Conventional franchised - US,XXX,519468,6,+,4.0
+301,13059,13284411,Avg. rest . - Total franchised - international Operated,XXX,519468,6,+,4.0
+302,13059,13284427,Avg. rest . - Total franchised - IDLC,XXX,519468,6,+,4.0
+303,13059,5774638,Avg. rest. - Total franchised - International,XXX,519468,6,+,4.0
+304,13059,5774509,Total Franchise avg. rest.,XXX,519468,6,+,4.0
+305,13059,5774481,Avg. rest. - US,XXX,519468,6,+,4.0
+306,13059,13284443,Avg. rest. - International Operated,XXX,519468,6,+,4.0
+307,13059,13284444,Avg. rest. - IDLC,XXX,519468,6,+,4.0
+308,13059,5774693,Avg. rest. - International,XXX,519468,6,+,4.0
+309,13059,5774511,System wide avg. rest.,XXX,519468,6,+,4.0
+310,13059,5774353,Rest. EOP - Company-operated - US,XXX,519468,6,+,1.0
+311,13059,13284409,Rest. EOP - Company operated - International Operated,XXX,519468,6,+,1.0
+312,13059,13284425,Rest. EOP - Company operated - IDLC,XXX,519468,6,+,1.0
+313,13059,5774518,Rest. EOP - Company operated - International,XXX,519468,6,+,1.0
+314,13059,5774372,Rest. EOP - Company-operated,XXX,519468,6,+,1.0
+315,13059,5774352,Rest. EOP - Conventional franchised - US,XXX,519468,6,+,1.0
+316,13059,13284441,Rest. EOP - Total franchised - International Operated,XXX,519468,6,+,1.0
+317,13059,13284442,Rest. EOP - Total franchised - IDLC,XXX,519468,6,+,1.0
+318,13059,5774517,Rest. EOP - Total franchised - International,XXX,519468,6,+,1.0
+319,13059,5774371,Rest. EOP - Total franchised,XXX,519468,6,+,1.0
+320,13059,5774354,Rest. EOP - US,XXX,519468,6,+,1.0
+321,13059,13284410,Rest. EOP - International Operated,XXX,519468,6,+,1.0
+322,13059,13284426,Rest. EOP - IDLC,XXX,519468,6,+,1.0
+323,13059,5774519,Rest. EOP - International,XXX,519468,6,+,1.0
+324,13059,5774373,Rest. EOP,XXX,519468,6,+,1.0
+325,13059,5774434,Company operated AUV - US,USD,519468,1,+,4.0
+326,13059,13284429,Company operated AUV - International Operated,USD,519468,1,+,4.0
+327,13059,13284431,Company operated AUV - IDLC,USD,519468,1,+,4.0
+328,13059,8511821,Company operated AUV - International,USD,519468,1,+,4.0
+329,13059,5774639,Total company operated - AUV,USD,519468,1,+,4.0
+330,13059,5774435,Franchise/affiliate AUV - US,USD,519468,1,+,4.0
+331,13059,13284430,Franchise/affiliate AUV - International Operated,USD,519468,1,+,4.0
+332,13059,13284432,Franchise/affiliate AUV - IDLC,USD,519468,1,+,4.0
+333,13059,8511820,Franchise/affiliate AUV - International,USD,519468,1,+,4.0
+334,13059,5774640,Total Franchised - AUV,USD,519468,1,+,4.0
+335,13059,5774642,International AUV,USD,519468,1,+,4.0
+336,13059,5774656,Total AUV,USD,519468,1,+,4.0
+337,13059,5774374,Comparable sales - US,XXX,47301,2,+/-,2.0
+338,13059,13284404,Comparable sales - International Operated,XXX,47301,2,+/-,2.0
+339,13059,13284420,Comparable sales - IDLC,XXX,47301,2,+/-,2.0
+340,13059,5774378,Total comparable sales,XXX,47301,2,+/-,2.0
+341,13059,13237863,2-yr stacked comp - United States,XXX,47301,2,+/-,2.0
+342,13059,13284446,2-yr stacked comp - International Operated,XXX,47301,2,+/-,2.0
+343,13059,13284447,2-yr stacked comp - IDLC,XXX,47301,2,+/-,2.0
+344,13059,13237867,2-yr stacked comp,XXX,47301,2,+/-,2.0
+345,13059,14236374,Rest. BOP - Company-operated - US,XXX,27146,6,+,1.0
+346,13059,5774414,Rest. net addition - Company-operated - US,XXX,27146,6,+/-,2.0
+347,13059,5774353,Rest. EOP - Company-operated - US,XXX,27146,6,+,1.0
+348,13059,5774479,Avg. rest . - Company-operated - US,XXX,27146,6,+,4.0
+349,13059,5774434,Company operated AUV - US,USD,27146,1,+,4.0
+350,13059,5774250,Sales - Company-operated - US,USD,27146,1,+,2.0
+351,13059,5774672,Total sales - company operated - US,USD,27146,1,+,2.0
+352,13059,14236382,Company-operated restaurant expenses - United States,USD,27146,1,+,2.0
+353,13059,5774263,Restaurant level profit/(loss) - US,USD,27146,1,+/-,2.0
+354,13059,14236373,Rest. BOP - Conventional franchised - US,XXX,27146,6,+,1.0
+355,13059,5774413,Rest. net addition - Conventional franchised - US,XXX,27146,6,+/-,2.0
+356,13059,5774352,Rest. EOP - Conventional franchised - US,XXX,27146,6,+,1.0
+357,13059,5774480,Avg. rest . - Conventional franchised - US,XXX,27146,6,+,4.0
+358,13059,5774435,Franchise/affiliate AUV - US,USD,27146,1,+,4.0
+359,13059,5774298,System wide sales - Franchised - US,USD,27146,1,+,2.0
+360,13059,5774684,Royalty rate - US,XXX,27146,2,+,4.0
+361,13059,5774251,Revenues - Franchised - US,USD,27146,1,+,2.0
+362,13059,14236379,Franchise restaurants-occupancy expenses - United States,USD,27146,1,+,2.0
+363,13059,5774258,Franchised profit/(loss) - US,USD,27146,1,+/-,2.0
+364,13059,14236406,Rest. BOP - US,XXX,27146,6,+,1.0
+365,13059,5774415,Rest. net addition - US,XXX,27146,6,+/-,2.0
+366,13059,5774354,Rest. EOP - US,XXX,27146,6,+,1.0
+367,13059,5774481,Avg. rest. - US,XXX,27146,6,+,4.0
+368,13059,5774436,AUV - US,USD,27146,1,+,4.0
+369,13059,5774346,System wide sales - US,USD,27146,1,+,2.0
+370,13059,5774242,Revenues - US,USD,27146,1,+,2.0
+371,13059,5774347,Total profit/(loss) - US,USD,27146,1,+/-,2.0
+372,13059,5774244,Operating income / (loss) - US,USD,27146,1,+/-,2.0
+373,13059,5774501,Revenue growth - Company operated - US,XXX,27146,2,+,2.0
+374,13059,5774706,Company-operated avg. rest. growth - US,XXX,27146,2,+,2.0
+375,13059,5774374,Comparable sales - US,XXX,27146,2,+/-,2.0
+376,13059,5774668,Revenue growth - Franchised & affiliated - US,XXX,27146,2,+,2.0
+377,13059,5774709,Franchised & affiliated avg. rest. growth - US,XXX,27146,2,+,2.0
