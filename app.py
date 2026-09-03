@@ -19,8 +19,6 @@ from utils import load_data
 from utils import va_api
 import json
 import dash_ag_grid as dag
-from functools import reduce
-import numpy as np
 import numbers
 from dash.exceptions import PreventUpdate
 
